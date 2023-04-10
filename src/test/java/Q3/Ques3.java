@@ -1,4 +1,4 @@
-package Amazon.com.amazon;
+package Q3;
 
 import java.util.List;
 import java.util.Set;
