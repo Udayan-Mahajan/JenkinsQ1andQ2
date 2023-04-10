@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Q3.Addtocart"/>
+      <class name="Amazon.com.amazon.Addtocart"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

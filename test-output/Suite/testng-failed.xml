@@ -3,13 +3,12 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Q3.SearchBar">
+      <class name="Amazon.com.amazon.Addtocart">
         <methods>
           <include name="launch"/>
-          <include name="Searchtest"/>
-          <include name="close"/>
+          <include name="Addtocarttest"/>
         </methods>
-      </class> <!-- Q3.SearchBar -->
+      </class> <!-- Amazon.com.amazon.Addtocart -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
